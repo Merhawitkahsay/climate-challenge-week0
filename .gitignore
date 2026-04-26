@@ -1,4 +1,23 @@
+# Python
+__pycache__/
+*.pyc
 venv/
+.env
+
+# Data files (IMPORTANT: never commit CSV files!)
 data/
 *.csv
+*.xlsx
+
+# Jupyter
 .ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+EOF
