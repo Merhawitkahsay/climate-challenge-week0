@@ -1,4 +1,4 @@
-# Climate Challenge Week 0 - COP32 Preparation Analysis
+# Climate Challenge Week 0
 
 ## Environment Setup
 
